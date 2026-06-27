@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,inetsnode.de
-  - DOMAIN_SUFFIX,zoho.com
+  - DOMAIN_SUFFIX,imappro.zoho.com
+  - DOMAIN_SUFFIX,smtppro.zoho.com
